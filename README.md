@@ -13,3 +13,6 @@ then continue to install by instruction)
 2. install docker-composer.
 
 used: https://docs.docker.com/compose/install/#install-compose
+
+
+3. clone repository
