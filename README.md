@@ -6,6 +6,6 @@
 
 upd: classic script do not find repo, add : 
 
-sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu zesty stable" 
+(in-line) sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu zesty stable" 
 
 then continue to install by instruction)
