@@ -1,6 +1,6 @@
 # docker
 
--. install https://docs.docker.com/engine/installation/
+1. install https://docs.docker.com/engine/installation/
 
 (for ubuntu 17.10 i was use this : https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#install-using-the-repository 
 
@@ -10,4 +10,4 @@ upd: classic script do not find repo, add :
 
 then continue to install by instruction)
 
-- . install docker-composer.
+2. install docker-composer.
