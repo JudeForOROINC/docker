@@ -1,1 +1,6 @@
-#docker here we must store our docker files usage.
+version: '2'
+services:
+    php7_backend:
+      build:
+        context: .
+        dockerfile: ./php7/Dockerfile
